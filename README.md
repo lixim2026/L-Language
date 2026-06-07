@@ -1,2 +1,2 @@
 # L-Language
-*L-Language is a good Language
+-L-Language is a good Language
